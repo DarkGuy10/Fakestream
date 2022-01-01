@@ -1,0 +1,4 @@
+jq
+tput
+file
+ffmpeg
